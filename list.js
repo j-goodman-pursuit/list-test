@@ -5,5 +5,6 @@ const veggies = [
     "beans",
     "eggplant",
     "lettuce",
-    "pumpkin"
+    "pumpkin",
+    "corn"
 ]
